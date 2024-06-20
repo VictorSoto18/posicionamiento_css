@@ -9,13 +9,15 @@
 
 .red-box{
     background-color: red;
+    position: relative;
+    top: 80px;
     /* bottom: 200px; No funciona por la posicion estatica */
 }
 /* item con posicionamiento relativo */
 .blue-box{
     background-color: blue;
     position: relative;
-    top: 0px;
+    top: 40px;
     right: 80px;
 }
 
