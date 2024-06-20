@@ -20,15 +20,13 @@
 
 .green-box{
     background-color: green;
-    
-    
 }
 
 .gray-box {
     background-color: gray;
     width: 100px;
     height: 300px;
-}
+} 
 
 .red-box, .blue-box, .green-box{
     width: 100px;
