@@ -11,7 +11,7 @@
     background-color: red;
     /* bottom: 200px; No funciona por la posicion estatica */
 }
-
+/* item con posicionamiento relativo */
 .blue-box{
     background-color: blue;
     position: relative;
